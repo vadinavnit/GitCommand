@@ -1,0 +1,21 @@
+$ git clone https://github.com/<username>/foo.git
+
+$ git branch
+  develop
+  feature_x
+  master
+git branch <branchname>
+$ git switch <branchname> / git checkout <branchname> 
+
+ git push origin <branch>
+ git pull origin <branch>
+
+ git rebase master -i rebase from master
+
+git config user.email <Email>
+git config user.name <Name>
+
+git log
+git status - check commited remaining changes
+git rebase master -i - rebase from master
+:wq - quit from console
