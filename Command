@@ -18,4 +18,4 @@ git config user.name <Name>
 git log
 git status - check commited remaining changes
 git rebase master -i - rebase from master
-:wq - quit from console
+:wq - quit from console -- save and quit
