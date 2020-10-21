@@ -20,4 +20,5 @@ git status - check commited remaining changes
 git rebase master -i - rebase from master
 :wq - quit from console -- save and quit
 
-git rebase --continue
+git rebase --continue // continue rebase after conflict solved
+git rebase --abort    // abort rebase
