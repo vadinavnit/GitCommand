@@ -22,3 +22,5 @@ git rebase master -i - rebase from master
 
 git rebase --continue // continue rebase after conflict solved
 git rebase --abort    // abort rebase
+
+git push --upstream origin <banchname> -f // forcefully push
