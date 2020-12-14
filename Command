@@ -24,3 +24,6 @@ git rebase --continue // continue rebase after conflict solved
 git rebase --abort    // abort rebase
 
 git push --upstream origin <banchname> -f // forcefully push
+
+git add <file> // add file to bucket
+git restore <file> // restore file
