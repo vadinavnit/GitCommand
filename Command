@@ -27,3 +27,6 @@ git push --upstream origin <banchname> -f // forcefully push
 
 git add <file> // add file to bucket
 git restore <file> // restore file
+
+git checkout origin/develop // checkout of develop branch
+git pull
